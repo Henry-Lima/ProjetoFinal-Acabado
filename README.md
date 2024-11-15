@@ -1,2 +1,1 @@
-# ProjetoFinal-Acabado
-o que funciona realmente 
+# API-Sistema-de-cadastro-loja
